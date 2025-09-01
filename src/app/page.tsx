@@ -37,7 +37,7 @@ export default function Page() {
       >
         <div className="grid gap-8 md:grid-cols-2">
           <motion.p {...fadeUp(0.05)} className="leading-relaxed text-black/80">
-            I’m <span className="font-semibold">Hafeez Siddiqui</span>, an
+            I&apos;m <span className="font-semibold">Hafeez Siddiqui</span>, an
             automation specialist and workflow engineer. I design and ship
             reliable systems with <span className="font-medium">n8n</span>,
             custom integrations, and the web stack. The goal is simple: replace
